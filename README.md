@@ -14,7 +14,6 @@
   <a href="https://pt.wikipedia.org/wiki/Python"><img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="https://pt.wikipedia.org/wiki/Bootstrap_(framework_front-end)"><img align="center" alt="Marcos-Bs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></a>
   <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)"><img align="center" alt="Marcos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-  <a href="https://pt.wikipedia.org/wiki/Microsoft_SQL_Server"><img align="center" alt="Marcos-SQL" heigth="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></a>
 </div>
   
 ##
