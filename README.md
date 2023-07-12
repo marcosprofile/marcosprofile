@@ -19,9 +19,9 @@
   
 ##
   
-<div> 
+<div>
+  <a href="https://www.linkedin.com/in/marcosdesigntech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcos_laurindo1997@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.linkedin.com/in/marcoslferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
  
   ![Snake animation](https://github.com/marcosprofile/marcosprofile/blob/output/github-contribution-grid-snake.svg)
  
