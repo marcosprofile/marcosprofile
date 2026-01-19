@@ -1,5 +1,5 @@
 # Olá, eu sou Marcos Ferreira!
-> UX/UI Designer | Desenvolvedor Front-end
+> Front-end Developer | Product Designer | UX/UI Designer
 
 <p>
   Front-end Developer / UI Engineer com forte base em UI/UX, atuando na interseção entre Design e Engenharia. Especialista em criar sistemas visuais escaláveis, acessíveis e consistentes, unindo arquitetura de design, documentação e implementação. 
