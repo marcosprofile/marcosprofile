@@ -2,7 +2,7 @@
 > UX/UI Designer | Desenvolvedor Front-end
 
 <p>
-  UX/UI Designer com formação em Análise e Desenvolvimento de Sistemas e foco contínuo em evolução técnica, atualmente aprofundando conhecimentos em desenvolvimento front-end com Next.js e padrões de arquitetura front-end moderna.
+  Front-end Developer / UI Engineer com forte base em UI/UX, atuando na interseção entre Design e Engenharia. Especialista em criar sistemas visuais escaláveis, acessíveis e consistentes, unindo arquitetura de design, documentação e implementação. 
 </p>
 
 <br>
