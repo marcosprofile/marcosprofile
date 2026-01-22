@@ -1,4 +1,4 @@
-# Olá, eu sou Marcos Ferreira!
+# Olá, eu sou Marcos Laurindo Ferreira!
 > Front-end Engineer (UI Architecture & Design Systems)
 
 <p>Engenheiro Front-end com atuação em arquitetura de interfaces e Design Systems, responsável por estruturar e evoluir plataformas de UI escaláveis para produtos digitais complexos.</p>
