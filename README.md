@@ -1,9 +1,8 @@
 # Olá, eu sou Marcos Laurindo Ferreira!
 > Front-end Engineer (UI Architecture & Design Systems)
 
-<p>Engenheiro Front-end com atuação em arquitetura de interfaces e Design Systems, responsável por estruturar e evoluir plataformas de UI escaláveis para produtos digitais complexos.</p>
-<p>Meu trabalho está centrado na criação de fundamentos técnicos que aumentam a previsibilidade do desenvolvimento, reduzem retrabalho e permitem que times de engenharia, design e QA operem com mais autonomia e eficiência.</p>
-<p>Atuo na definição e governança da camada de interface, estabelecendo padrões claros para a construção de UIs consistentes, testáveis e fáceis de manter, mesmo em ambientes com múltiplos times e alto ritmo de entrega.</p>
+<p>Desenvolvedor Front-end especializado em arquitetura de interfaces e Design Systems, com foco em estruturar a camada de UI de forma escalável para produtos digitais.</p>
+<p>Atuo na construção e evolução de front-end e design systems em produtos B2B, conectando decisões de UX a implementações técnicas consistentes. Meu trabalho envolve a definição de padrões de UI que reduzem retrabalho e aumentam a consistência entre design e engenharia, facilitando a evolução do produto ao longo do tempo.</p>
 <p>Principais frentes de atuação:</p>
 <ul>
   <li><strong>Design Systems e Design Tokens</strong>: definição de governança de tokens (base, semântico e componente) como fonte única da verdade entre design e código.</li>
