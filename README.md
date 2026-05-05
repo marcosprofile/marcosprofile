@@ -1,19 +1,21 @@
 # Olá, eu sou Marcos Laurindo Ferreira!
-> Front-end Engineer (UI Architecture & Design Systems)
+> UI Engineer | Design Systems & Frontend Architecture
 
-<p>Desenvolvedor Front-end especializado em arquitetura de interfaces e Design Systems, com foco em estruturar a camada de UI de forma escalável para produtos digitais.</p>
-<p>Atuo na construção e evolução de front-end e design systems em produtos B2B, conectando decisões de UX a implementações técnicas consistentes. Meu trabalho envolve a definição de padrões de UI que reduzem retrabalho e aumentam a consistência entre design e engenharia, facilitando a evolução do produto ao longo do tempo.</p>
-<p>Principais frentes de atuação:</p>
-<ul>
-  <li><strong>Design Systems e Design Tokens</strong>: definição de governança de tokens (base, semântico e componente) como fonte única da verdade entre design e código.</li>
-  <li><strong>Arquitetura de UI e CSS</strong>: implementação de estratégias escaláveis (BEM, SMACSS) para garantir baixo acoplamento, previsibilidade e longevidade do código.</li>
-  <li><strong>Testabilidade e contratos de interface</strong>: uso de data-attributes e convenções semânticas como contratos estáveis entre estilo, comportamento e testes automatizados.</li>
-  <li><strong>Plataforma de Front-end e handoff eficiente</strong>: entrega de código de interface pronto para integração, permitindo que times foquem em lógica de negócio, performance e escala.</li>
-</ul>
+UI Engineer com foco em arquitetura de interfaces e Design Systems, atuando na construção de bases de UI escaláveis para produtos digitais.
 <br>
-<p>Trabalho com o ecossistema moderno de Front-end (HTML, CSS, JavaScript/TypeScript, React, Next.js, Angular), traduzindo decisões visuais e requisitos de produto em regras técnicas claras, versionáveis e previsíveis.</p>
-<p>Usabilidade, acessibilidade e consistência visual são tratadas como restrições técnicas dentro da engenharia de interfaces, reduzindo ambiguidades, decisões subjetivas e custos ao longo do ciclo de desenvolvimento.</p>
+<br>
+Trabalho conectando design e engenharia, estruturando sistemas de interface que aumentam a consistência, reduzem retrabalho e facilitam a evolução do produto ao longo do tempo.
+<br>
+<br>
+Minha atuação envolve:
+- **Design Systems e Design Tokens**: definição e organização de tokens (base, semântico e componente) como fonte única de verdade entre design e código.
+- **Arquitetura de UI e CSS**: estruturação de padrões escaláveis (BEM, SMACSS) com foco em previsibilidade e manutenção.
+- **Padronização e componentização**: criação de interfaces reutilizáveis para acelerar desenvolvimento sem perder consistência.
+- **Contratos de interface**: uso de semântica e data-attributes para melhorar testabilidade e reduzir regressões.
+<br>
+Atuo com HTML, CSS, JavaScript/TypeScript, React e Next.js, participando tanto da definição quanto da implementação de interfaces, com foco em transformar UI em sistemas estruturados e sustentáveis.
 
+<br>
 <br>
 
 ### Front-end
@@ -21,13 +23,3 @@
 
 ### Ferramentas
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer Badge](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge) ![Webflow Badge](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=fff&style=for-the-badge) ![Miro Badge](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff&style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [![GitHub Logo](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
-
-<br>
-
-## GitHub Stats
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosprofile&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosprofile&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<!-- ![Snake animation](https://github.com/marcosprofile/marcosprofile/blob/output/github-contribution-grid-snake.svg) -->
