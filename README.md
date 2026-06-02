@@ -1,6 +1,7 @@
 # Olá, eu sou Marcos Laurindo Ferreira!
-> UX/UI Designer | UX Engineer | Design Systems & Frontend
+`UX/UI Designer` `UX Engineer` `Design Systems` `Front-end`
 
+<br>
 UX Engineer atuando na interseção entre Design e Engenharia de Software, com foco na construção de Design Systems e interfaces escaláveis.
 <br>
 <br>
