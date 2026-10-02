@@ -1,26 +1,19 @@
 # Olá, eu sou Marcos Laurindo Ferreira!
-`UX Engineer` `Design Systems` `Front-end` `Machine Learning Student`
+`UX/UI Designer` `UX/UI Designer` `UX Engineer` `Design Systems` `SaaS B2B`
 
 <br>
-UX Engineer atuando na interseção entre Design e Engenharia de Software, com foco na construção de Design Systems, interfaces escaláveis e experiência de desenvolvimento.
+Sou UX/UI Designer e UX Engineer com mais de 4 anos de experiência em produtos digitais, principalmente em plataformas B2B.
 <br>
 <br>
-Crio sistemas de interface que aumentam a consistência dos produtos, aceleram o desenvolvimento e reduzem retrabalho entre design e engenharia.
+Minha atuação conecta design e tecnologia para transformar fluxos e regras de negócio complexas em interfaces mais claras e consistentes.
 <br>
 <br>
-Minha atuação envolve:
-
-- **Design Systems e Design Tokens**: definição e organização de tokens como fonte única de verdade entre design e código.
-- **Arquitetura de UI e CSS**: estruturação de padrões escaláveis (BEM, SMACSS) com foco em previsibilidade e manutenção.
-- **Padronização e componentização**: criação de interfaces reutilizáveis para acelerar desenvolvimento sem perder consistência.
-- **Contratos de interface**: uso de semântica e data-attributes para melhorar testabilidade e reduzir regressões.
-<br>
-Atualmente também estou expandindo minha atuação para Inteligência Artificial, estudando Python, SQL, Análise de Dados e Engenharia de Machine Learning, com foco na construção de produtos e sistemas inteligentes.
+Trabalhei no redesenho de fluxos, na criação de protótipos e na construção e evolução de Design Systems para web e mobile, com componentes reutilizáveis, Design Tokens e documentação.Em colaboração com produto, desenvolvimento e QA, acompanhei soluções do entendimento do problema à implementação, incluindo handoff e Design QA.
 <br>
 <br>
-
-### AI & Data `(Em formação)`
-![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+Minha base em front-end me permite avaliar a viabilidade técnica das soluções e aproximar Figma e código, com atenção à acessibilidade, à arquitetura de interfaces e à fidelidade ao design.
+<br>
+<br>
 
 ### Front-end
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge) ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
