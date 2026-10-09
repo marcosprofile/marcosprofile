@@ -1,5 +1,5 @@
 # Olá, eu sou Marcos Laurindo Ferreira!
-`UX/UI Designer` `Design Systems e Arquitetura de UI` `Produtos B2B SaaS` `Figma e Front-end`
+`UX/UI Designer` `Design Systems e Arquitetura de UI` `Produtos B2B SaaS` `Desenvolvimento Front-end`
 
 <br>
 Sou UX/UI Designer e UX Engineer, com cerca de 5 anos de experiência em produtos digitais, principalmente plataformas B2B.
